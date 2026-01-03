@@ -24,6 +24,9 @@ wheels/
 .installed.cfg
 *.egg
 
+# But don't ignore frontend/lib (Next.js utils)
+!frontend/lib/
+
 # Virtual environment
 venv/
 env/
