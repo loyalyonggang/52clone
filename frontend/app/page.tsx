@@ -762,7 +762,7 @@ export default function Home() {
                   <li>• 需要登录才能访问的内容</li>
                   <li>• 网络连接问题或超时</li>
                 </ul>
-                <p className="text-gray-600 mt-2 ml-5">建议：尝试勾选"高级渲染模式"，或者稍后重试。</p>
+                <p className="text-gray-600 mt-2 ml-5">建议：尝试勾选&ldquo;高级渲染模式&rdquo;，或者稍后重试。</p>
               </div>
             </div>
 
